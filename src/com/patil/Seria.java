@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
 
+/*hi hello*/
 class Ki  implements Serializable{
 	 static int a;
 	transient String b;
